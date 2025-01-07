@@ -1,6 +1,6 @@
 {
     "type": "wordpress-theme",
-    "name": "wordpress-theme/moly-child",
+    "name": "wordpress-theme/sydney-child",
     "extra": {
         "branch-alias": {
             "dev-master": "1.0"
